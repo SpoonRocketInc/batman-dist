@@ -1,0 +1,19 @@
+{
+  "name": "batman-dist",
+  "version": "0.17.0",
+  "description": "Distribution package for Batman.js",
+  "main": "./dist/batman.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SpoonRocketInc/batman-dist.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SpoonRocketInc/batman-dist/issues"
+  },
+  "homepage": "https://github.com/SpoonRocketInc/batman-dist#readme"
+}
